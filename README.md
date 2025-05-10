@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. fill in `dns` and `keySeed` in `index.js`
+1. fill in `port`, `dns`,  and `keySeed` in `config.js`
 2. run `npm start`
 
 ### How to upload
